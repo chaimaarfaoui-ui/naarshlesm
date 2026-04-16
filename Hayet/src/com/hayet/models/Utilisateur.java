@@ -156,4 +156,5 @@ public class Utilisateur {
 // added attributes 
 // added constructor
 // TODO validation
-// TODO fix logic
+// TODO fix logicgit commit -m "fix logic TODO"
+// TODO improve design 
