@@ -155,3 +155,5 @@ public class Utilisateur {
 // feature models branch updategit gti
 // added attributes 
 // added constructor
+// TODO validation
+// TODO fix logic
