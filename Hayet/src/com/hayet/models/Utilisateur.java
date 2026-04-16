@@ -152,4 +152,6 @@ public class Utilisateur {
                "', email='" + email + "', role='" + role + "', connecte=" + estConnecte + "}";
     }
 }
-// feature models branch updategit gtiw
+// feature models branch updategit gti
+// added attributes 
+// added constructor
