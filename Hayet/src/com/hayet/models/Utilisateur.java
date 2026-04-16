@@ -152,3 +152,4 @@ public class Utilisateur {
                "', email='" + email + "', role='" + role + "', connecte=" + estConnecte + "}";
     }
 }
+// feature models branch updategit gtiw
