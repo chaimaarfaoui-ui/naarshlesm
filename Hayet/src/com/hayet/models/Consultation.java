@@ -153,3 +153,4 @@ public class Consultation {
 
 // TODO consultation validation
 // TODO consultation logic
+// TODO improve consultation design
