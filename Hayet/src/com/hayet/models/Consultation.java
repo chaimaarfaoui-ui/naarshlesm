@@ -150,3 +150,5 @@ public class Consultation {
                "', statut='" + statut + "', montant=" + montantPaye + " DT}";
     }
 }
+
+// TODO consultation validation
